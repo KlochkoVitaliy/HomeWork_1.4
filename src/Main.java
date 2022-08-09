@@ -24,7 +24,7 @@ public class Main {
         }
 
 // Задание 3
-        int year = 0;
+
          int yearBefore = 1822;
          int yearAfter = 2122;
          for  (i =yearBefore; i<=yearAfter; i++ ) {
